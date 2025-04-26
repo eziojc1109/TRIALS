@@ -1,0 +1,11 @@
+website/index.html
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Page</title>
+</head>
+<body>
+    <h1>Hello, GitHub World!</h1>
+</body>
+</html>
